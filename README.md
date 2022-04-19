@@ -1,0 +1,3 @@
+# Scan-Market
+apiprivate
+rwgs
